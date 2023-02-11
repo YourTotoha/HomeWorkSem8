@@ -1,0 +1,15 @@
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\bin\Debug\net6.0\Task54.exe
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\bin\Debug\net6.0\Task54.deps.json
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\bin\Debug\net6.0\Task54.runtimeconfig.json
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\bin\Debug\net6.0\Task54.dll
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\bin\Debug\net6.0\Task54.pdb
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\Task54.csproj.AssemblyReference.cache
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\Task54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\Task54.AssemblyInfoInputs.cache
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\Task54.AssemblyInfo.cs
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\Task54.csproj.CoreCompileInputs.cache
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\Task54.dll
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\refint\Task54.dll
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\Task54.pdb
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\Task54.genruntimeconfig.cache
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task54\obj\Debug\net6.0\ref\Task54.dll

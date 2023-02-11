@@ -1,0 +1,15 @@
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\Task60.csproj.AssemblyReference.cache
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\Task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\Task60.AssemblyInfoInputs.cache
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\Task60.AssemblyInfo.cs
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\Task60.csproj.CoreCompileInputs.cache
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\bin\Debug\net6.0\Task60.exe
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\bin\Debug\net6.0\Task60.deps.json
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\bin\Debug\net6.0\Task60.runtimeconfig.json
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\bin\Debug\net6.0\Task60.dll
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\bin\Debug\net6.0\Task60.pdb
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\Task60.dll
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\refint\Task60.dll
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\Task60.pdb
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\Task60.genruntimeconfig.cache
+C:\Users\saint\Desktop\GB\C#\HomeWorkSem8\Task60\obj\Debug\net6.0\ref\Task60.dll
